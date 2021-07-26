@@ -1,4 +1,4 @@
-# Crocodile Game
+# Reisler Kelime
 
 #### A word-based Telegram game bot.
 
